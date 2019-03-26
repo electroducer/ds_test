@@ -1,5 +1,5 @@
 Hello!
-
-This is my test file.
-
+Hello again!
+This is my second test file.
+Goodbye.
 The end.
